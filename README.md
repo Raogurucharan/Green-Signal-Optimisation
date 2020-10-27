@@ -13,6 +13,7 @@ ABOUT ALGORITHM:
 --------------------------------
 Bio-inspired algorithms are now becoming powerful methods for solving many real-world optimization problems. In this paper, we propose a hybrid approach involving Grey Wolf optimizer (GWO) and Bat swarm optimizer (BA) for global function optimization problems. GWO is well known for its balanced exploration/exploitation behavior, while BA is known to be more exploitative due to its low exploration ability in some conditions. We use GWO exploration skills to explore the search space effectively and BA local search capabilities to refine the solution. In our hybrid algorithm, namely (GWOBA), GWO is used to explore the problem space alone and pass the best two solutions to BA to guide its local search, then BA digs deeper and finds the best solution.
 
+
  REFERENCES :
 ----------------------
  1) Barth, M., and Boriboonsomsin, K. (2008). “Real-World CO2 Impacts of Traffic  Congestion.” In Proceedings of the 87th Annual Meeting of the Transportation Research Board, Washington, D.C. 
