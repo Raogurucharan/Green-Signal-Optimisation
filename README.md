@@ -22,4 +22,4 @@ Bio-inspired algorithms are now becoming powerful methods for solving many real-
 
 3) Sanchez, M. J.-C. Cano, and Kim, D. “Predicting traffic lights to improve urban traffic fuel  consumption,” in 2006 6th International Conference on ITS Telecommunications  Proceedings. IEEE, 2006, Proceedings Paper, pp. 331–336. 
 
-4) Impact of Signal Phasing Information Accuracy on Green Light Optimized Speed Advisory Systems Aleksandar Stevanovic* Assistant Professor Department of Civil, Environmental, and Geomatics Engineering Florida Atlantic University
+4) Impact of Signal Phasing Information Accuracy on Green Light Optimized Speed Advisory Systems Aleksandar Stevanovic* Assistant Professor Department of Civil, Environmental, and Geomatics Engineering Florida Atlantic University.
